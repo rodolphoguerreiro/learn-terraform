@@ -1,4 +1,4 @@
-# API-REST
+# Alura Terraform
 
 #### Requirements
 * Terraform >= 0.12.13
